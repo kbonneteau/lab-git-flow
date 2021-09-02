@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "E. E. Cummings",
+    poem: "somewhere i have never travelled,gladly beyond \n any experience,your eyes have their silence:",
+    image: "rain.jpeg"
+  },
+  {
     author: "Noriko",
     poem: "Hello \n Hello \n Hello \n Hello",
     image: "noriko.jpeg",
